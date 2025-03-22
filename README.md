@@ -45,6 +45,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Backlog do produto
 
+![Captura de tela 2025-03-21 220046](https://github.com/user-attachments/assets/588fd640-d546-47d9-8786-3697fc520b92)
+
 ## Sprint 1
 - [ ] Defina o propósito do template;
 - [ ] Identifique os elementos principais;
