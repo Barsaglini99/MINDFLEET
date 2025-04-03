@@ -1,4 +1,17 @@
+<!-- ## Ola, somos a MINDFLEET, muito prazer! :sparkles: -->
+<p align="center">
+<img alt="Banner de boas vindas" src="./Bunner02.png" />
+</p>
+
 # MINDFLEET
+Always doing the best! | Sempre fazendo o melhor!
+
+Uma empresa especializada em fornececer soluções logísticas tecnológicas e ambientais, cujo objetivo é compreender as necessidades para melhor atendê-las. 
+
+Nossa missão é estabelecer-nos como uma referência global em soluções logísticas e tecnológicas, com o objetivo de simplificar o transporte e o armazenamento de cargas, priorizando a sustentabilidade e a otimização de custos, garantindo ao mesmo tempo a máxima rentabilidade possível.
+
+Nossos valores fundamentam-se na honestidade, transparência, simplicidade, estreito relacionamento com clientes internos e externos, e no apoio a projetos socioambientais.
+
 
 # Aprendizado por Projeto Integrador (API)
 
@@ -25,7 +38,7 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 | Team Member   | Renan Joval Francisco Nascimento              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-nepomuceno-04943720a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun)        |
 |  Team Member  | Evelyn Caroline Marcelino da Silva Barbosa                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
 |  Team Member  | Lucas Barsaglini                |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barsaglini-71774b188/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Barsaglini99)   |
-|  Team Member  |        |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
+|  Team Member  | Júlia Bueno       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
