@@ -1,7 +1,9 @@
-<!-- ## Ola, somos a MINDFLEET, muito prazer! :sparkles: -->
-<p align="center">
-<img alt="Banner de boas vindas" src="./Bunner02.png" />
-</p>
+![Imagem do WhatsApp de 2025-04-03 à(s) 21 32 55_cddec8b7](https://github.com/user-attachments/assets/f2eded96-173e-4875-9dc6-ba618303e729)
+ 
+  Olá, somos a # MINDFLEET, muito prazer!  🇧🇷 :office: :moneybag: :briefcase: :chart_with_upwards_trend: :bar_chart: :truck: :truck: :mortar_board: :boom: :star: :star2:  
+
+
+
 
 # MINDFLEET
 Always doing the best! | Sempre fazendo o melhor!
@@ -51,12 +53,22 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Desenvolver habilidades técnicas.
 
 ## Tecnologias Utilizadas
-
- ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ 
+### Tecnologias Específicas/Apoio
+* Google > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+* Google Chrome
+* Microsoft Office
+* Windows
   
- ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+### Tecnologias da Informação
+* Jira Software
+* Github
+* Power BI
+* Slack
+* Pacote Office
+* Canva
+* Chat GPT
+
 
 # Backlog do produto
 
