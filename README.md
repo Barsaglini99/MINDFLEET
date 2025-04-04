@@ -1,6 +1,6 @@
 ![Imagem do WhatsApp de 2025-04-03 à(s) 21 32 55_cddec8b7](https://github.com/user-attachments/assets/f2eded96-173e-4875-9dc6-ba618303e729)
  
-  Olá, somos a # MINDFLEET, muito prazer!  🇧🇷 :office: :moneybag: :briefcase: :chart_with_upwards_trend: :bar_chart: :truck: :truck: :mortar_board: :boom: :star: :star2:  
+  Olá, somos a **MINDFLEET**, muito prazer!  🇧🇷 :office: :moneybag: :briefcase: :chart_with_upwards_trend: :bar_chart: :truck: :truck: :mortar_board: :boom: :star: :star2:  
 
 
 
