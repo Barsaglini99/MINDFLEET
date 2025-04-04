@@ -119,7 +119,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01| 04/04/2025 | concluído| [MVP](https://) | 
+|01| 04/04/2025 | em andamento| [MVP](https://) | 
 |02| 25/04/2025 | a fazer|[MVP](https://) | 
 |03| 16/05/2025 | a fazer|[MVP](https://) | 
 |04| 26/06/2025 |a fazer |[MVP](https://)  | 
