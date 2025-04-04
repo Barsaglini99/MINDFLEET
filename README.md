@@ -1,6 +1,6 @@
 <!-- ## Ola, somos a MINDFLEET, muito prazer! :sparkles: -->
 <p align="center">
-<img alt="Banner de boas vindas" src="./![Imagem banner mindfleet]
+<img alt="Banner de boas vindas" src="./![]
  />
 </p>
 
