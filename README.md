@@ -55,7 +55,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Tecnologias Utilizadas
  
 ### Tecnologias Específicas/Apoio
-* Google > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+* Google
 * Google Chrome
 * Microsoft Office
 * Windows
