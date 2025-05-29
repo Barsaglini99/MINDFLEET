@@ -70,7 +70,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Backlog do produto
 
-**SPRINT1**
+**SPRINT 1**
 ![Imagem do WhatsApp de 2025-04-04 à(s) 00 51 23_1dadc30d](https://github.com/user-attachments/assets/901fd85a-d059-425b-9c89-287d6f2ad399)
 
 
