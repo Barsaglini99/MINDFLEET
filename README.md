@@ -70,11 +70,12 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Backlog do produto
 
+**SPRINT1**
 ![Imagem do WhatsApp de 2025-04-04 à(s) 00 51 23_1dadc30d](https://github.com/user-attachments/assets/901fd85a-d059-425b-9c89-287d6f2ad399)
 
 
 ## Sprint 1
-- [ ] Defina o propósito do template;
+- [ ]  Defina o propósito do template;
 - [ ] Identifique os elementos principais;
 - [ ] Esboce o layout;
 - [ ] Escolha cores e fontes;
