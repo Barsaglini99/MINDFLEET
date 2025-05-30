@@ -94,7 +94,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [ ] Treinamento com os alunos;
 - [ ] Monitoramento e ajustes.
 
-**SPRINT 3
+**SPRINT 3**
+![image](https://github.com/user-attachments/assets/34e66967-6f01-4a0a-9275-7c2a0c653f89)
 
 
 ## Sprint 3
