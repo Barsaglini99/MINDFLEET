@@ -42,6 +42,7 @@ O projeto API tem como objetivo principal mapear cargas de 3 (três) empresas á
 | Team Member   | Evelyn Caroline Marcelino da Silva Barbosa |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evelyn-caroline-2066662b2/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/evelyncaroline01)        |
 |  Team Member  | Lucas Barsaglini |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barsaglini-71774b188/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Barsaglini99)   |
 |  Team Member  | Rafael Luiz dos Santos |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelluizsantos/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Rafaelsantos2001)     |
+
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
 * Centralizar os trabalhos e projetos;
@@ -61,7 +62,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Microsoft Office
 * Windows
   
-#### Tecnologias da Informação
+### Tecnologias da Informação
 * Jira Software
 * Slack
 * Pacote Office
