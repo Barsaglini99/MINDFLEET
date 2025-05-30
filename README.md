@@ -51,17 +51,18 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Desenvolver habilidades técnicas.
 
 ## Tecnologias Utilizadas
- 
+* Github
+* Power BI
+* Python
+  
 ### Tecnologias Específicas/Apoio
 * Google
 * Google Chrome
 * Microsoft Office
 * Windows
   
-### Tecnologias da Informação
+#### Tecnologias da Informação
 * Jira Software
-* Github
-* Power BI
 * Slack
 * Pacote Office
 * Canva
@@ -118,8 +119,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01| 04/04/2025 | concluído | [MVP](https://) | 
-|02| 25/04/2025 | em andamento |[MVP](https://) | 
-|03| 30/05/2025 | em andamento |[MVP](https://) | 
-|04| 26/06/2025 |a fazer |[MVP](https://)  | 
-|Feira de Soluções|29/05/2025 |a fazer |[MVP](https://) | 
+|01| 04/04/2025 | concluído | [Ver Relatório](https://github.com/Barsaglini99/MINDFLEET/blob/main/Relat%C3%B3rio-API-3-Sprint1.pdf) | 
+|02| 25/04/2025 | em andamento |[Ver Relatório](https://) | 
+|03| 30/05/2025 | em andamento |[Ver relatório](https://) | 
+|04| 26/06/2025 |a fazer |[Ver Relatório](https://)  | 
+|Feira de Soluções|29/05/2025 |a fazer |[Ver Relatório](https://) | 
