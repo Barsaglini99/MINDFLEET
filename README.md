@@ -126,6 +126,6 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01| 04/04/2025 | concluído | [Ver Relatório](https://github.com/Barsaglini99/MINDFLEET/blob/main/Relat%C3%B3rio-API-3-Sprint1.pdf) | 
 |02| 25/04/2025 | em andamento |[Ver Relatório](https://) | 
-|03| 30/05/2025 | em andamento |[Ver relatório](https://) | 
+|03| 30/05/2025 | concluído |[Ver relatório](https://) | 
 |04| 26/06/2025 |a fazer |[Ver Relatório](https://)  | 
 |Feira de Soluções|29/05/2025 |a fazer |[Ver Relatório](https://) | 
