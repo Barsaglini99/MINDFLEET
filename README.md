@@ -93,7 +93,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [ ] Treinamento com os professores;
 - [ ] Treinamento com os alunos;
 - [ ] Monitoramento e ajustes.
-      
+
+**SPRINT 3
+
+
 ## Sprint 3
 - [ ] Defina o propósito do template;
 - [ ] Identifique os elementos principais;
