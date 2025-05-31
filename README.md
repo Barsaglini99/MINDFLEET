@@ -77,15 +77,15 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 
 ## Sprint 1
-- [ ]  Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
+- [X]  Defina o propósito do template;
+- [X] Identifique os elementos principais;
+- [X] Esboce o layout;
+- [X] Escolha cores e fontes;
+- [X] Desenvolva o design;
+- [X] Teste e revise;
+- [X] Documente instruções de uso;
 - [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [X] Finalize e aprovação.
 
 ## Sprint 2
 - [ ] Documento passo a passo;
@@ -94,20 +94,21 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [ ] Treinamento com os alunos;
 - [ ] Monitoramento e ajustes.
 
+
 **SPRINT 3**
 ![image](https://github.com/user-attachments/assets/34e66967-6f01-4a0a-9275-7c2a0c653f89)
 
 
 ## Sprint 3
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
+- [X] Defina o propósito do template;
+- [X] Identifique os elementos principais;
+- [X] Esboce o layout;
+- [X] Escolha cores e fontes;
+- [X] Desenvolva o design;
+- [X] Teste e revise;
 - [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [X] Finalize e aprovação.
       
 ## Sprint 4
 - [ ] Defina o propósito do template;
